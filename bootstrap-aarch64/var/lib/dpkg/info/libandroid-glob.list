@@ -1,0 +1,14 @@
+./
+./data/
+./data/data/
+./data/data/com.termux/
+./data/data/com.termux/files/
+./data/data/com.termux/files/usr/
+./data/data/com.termux/files/usr/include/
+./data/data/com.termux/files/usr/include/glob.h
+./data/data/com.termux/files/usr/lib/
+./data/data/com.termux/files/usr/lib/libandroid-glob.so
+./data/data/com.termux/files/usr/share/
+./data/data/com.termux/files/usr/share/doc/
+./data/data/com.termux/files/usr/share/doc/libandroid-glob/
+./data/data/com.termux/files/usr/share/doc/libandroid-glob/LICENSE

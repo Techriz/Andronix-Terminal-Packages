@@ -1,0 +1,2 @@
+# The main termux repository:
+deb https://dl.bintray.com/termux/termux-packages-24 stable main

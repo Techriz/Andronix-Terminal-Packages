@@ -1,0 +1,14 @@
+prefix=/data/data/com.termux/files/usr
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=/data/data/com.termux/files/usr/lib
+host=aarch64-unknown-linux-android
+mtcflags=
+mtlibs=
+
+Name: gpg-error
+Description: GPG Runtime
+Version: 1.36
+Cflags: -I${prefix}/include
+Libs: -L/data/data/com.termux/files/usr/lib -lgpg-error
+URL: https://www.gnupg.org/software/libgpg-error/index.html

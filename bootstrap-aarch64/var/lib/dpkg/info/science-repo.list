@@ -1,0 +1,10 @@
+./
+./data/
+./data/data/
+./data/data/com.termux/
+./data/data/com.termux/files/
+./data/data/com.termux/files/usr/
+./data/data/com.termux/files/usr/etc/
+./data/data/com.termux/files/usr/etc/apt/
+./data/data/com.termux/files/usr/etc/apt/sources.list.d/
+./data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list

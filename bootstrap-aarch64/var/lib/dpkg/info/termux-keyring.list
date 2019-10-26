@@ -1,0 +1,12 @@
+./
+./data/
+./data/data/
+./data/data/com.termux/
+./data/data/com.termux/files/
+./data/data/com.termux/files/usr/
+./data/data/com.termux/files/usr/etc/
+./data/data/com.termux/files/usr/etc/apt/
+./data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/
+./data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/grimler.gpg
+./data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/termux-autobuilds.gpg
+./data/data/com.termux/files/usr/etc/apt/trusted.gpg.d/xeffyr.gpg

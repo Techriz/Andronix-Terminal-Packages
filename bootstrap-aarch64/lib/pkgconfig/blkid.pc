@@ -1,0 +1,10 @@
+prefix=/data/data/com.termux/files/usr
+exec_prefix=/data/data/com.termux/files/usr
+libdir=/data/data/com.termux/files/usr/lib
+includedir=/data/data/com.termux/files/usr/include
+
+Name: blkid
+Description: Block device id library
+Version: 2.34.0
+Cflags: -I${includedir}/blkid
+Libs: -L${libdir} -lblkid
